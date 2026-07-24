@@ -1,0 +1,84 @@
+Privacy Policy for Tarang Player
+Last Updated: July 11, 2026
+JIMA Group ("we," "our," or "us") operates the Tarang Player mobile application (the "App"). This Privacy Policy explains what information we collect, how we use it, and your choices regarding that information.
+By using Tarang Player, you agree to the terms described in this Privacy Policy.
+
+1. Information We Collect
+1.1 Google Sign-In (Account Login)
+Tarang Player lets you sign in using your Google (Gmail) account. When you sign in, we (through Google Sign-In / Firebase Authentication) receive basic profile information such as your:
+Name
+Email address
+Profile picture (if available)
+A unique account identifier
+Why we ask for this: Signing in lets us save and back up your data — such as your watch/play time, playback progress, and history — linked to your account, so it is not lost if you change devices or reinstall the App, and so you can resume where you left off.
+We do not use your Google account to post on your behalf, access your Gmail messages, or access any other Google service beyond basic sign-in profile information.
+1.2 Media Files and Storage Access
+To play your audio and video files, the App requests access to your device's storage (photos/media/files permission, or scoped storage depending on your Android version). This access is used only to scan, display, and play media files stored on your device. Your actual media files are not uploaded to our servers.
+1.3 Playback Data / Backup
+To provide the backup and "resume where you left off" feature, the App stores information such as:
+Play time / watch history
+Playback progress (e.g., last position in a file)
+App settings/preferences (e.g., theme, playback preferences)
+This data is linked to your signed-in Google account and stored securely (e.g., via Firebase) so it can be restored across devices.
+1.4 Advertising Data
+Tarang Player displays ads to free-tier users through third-party advertising networks (e.g., Google AdMob). These ad networks may automatically collect:
+Advertising ID (a resettable device identifier)
+Device information (device model, OS version, language, general region)
+App usage information relevant to ad delivery and measurement (e.g., ad impressions/clicks)
+This information is used to show ads and measure their performance. It is collected and processed by the advertising network according to their own privacy policies (see Section 5). You can reset or limit your Advertising ID, or opt out of personalized ads, through your device's Settings.
+1.5 Purchase Information (VIP Plan)
+If you purchase the App's VIP plan (which removes ads and may unlock other features), the purchase is processed entirely through Google Play Billing. We do not receive or store your payment details (such as card numbers). We only receive confirmation of your purchase/subscription status (e.g., active VIP or not) so the App can unlock the ad-free experience and any related features for your account.
+1.6 Feedback Submissions
+When you use the "Feedback" feature, the App opens your device's default email app with a pre-filled message (and any attachments you choose, such as screenshots). This is handled by your device's own email client — we only receive what you choose to send us by email.
+1.7 Crash and Diagnostic Data
+The App may use Firebase Crashlytics (or a similar tool) to automatically collect crash reports and diagnostic logs (e.g., device model, OS version, app version, stack traces at the time of a crash). This is used solely to identify and fix bugs and improve app stability.
+2. How We Use Information
+We use the information described above to:
+Sign you in and identify your account.
+Save and back up your play time, progress, and preferences across devices.
+Show ads (for free-tier users) and stop showing ads once you purchase the VIP plan.
+Process and validate your VIP plan purchase through Google Play Billing.
+Respond to feedback and support requests.
+Diagnose crashes and improve app performance and stability.
+We do not sell your personal information to third parties.
+3. Permissions Used by the App
+Permission
+Purpose
+Storage / Media access
+To find and play audio/video files on your device
+Internet / Network access
+To sign in, back up data, show ads, and validate purchases
+Notifications
+To show media playback controls (e.g., notification bar / mini player)
+The App does not access your contacts, location, camera, or microphone unless a specific feature explicitly requires it and asks for your permission at that time.
+4. Data Sharing and Third Parties
+We share limited information with the following third-party service providers, only as needed to provide the App's features:
+Google Sign-In / Firebase Authentication — to let you log in and identify your account.
+Firebase (Realtime Database/Firestore or similar) — to back up your play time, progress, and preferences.
+Firebase Crashlytics — to collect crash and diagnostic reports.
+Google AdMob (or similar ad network) — to show ads to free-tier users.
+Google Play Billing — to process VIP plan purchases/subscriptions.
+Your email provider — when you use the Feedback feature, since it opens your device's own email app.
+These providers may process data according to their own privacy policies:
+Google Privacy Policy: https://policies.google.com/privacy
+We do not otherwise sell, rent, or share your personal information with third parties for their own independent marketing purposes.
+5. Advertising and Your Choices
+Free-tier users will see ads served through Google AdMob (or a similar network). These ads may be personalized based on your Advertising ID and general usage data, unless you've limited ad tracking in your device settings.
+Purchasing the VIP plan removes ads from the App.
+You can reset your Advertising ID or opt out of personalized ads anytime via your device's Settings > Google > Ads (or equivalent, depending on your device).
+6. Children's Privacy
+Tarang Player is not directed at children under 13. Since the App requires Google Sign-In for backup features and displays ads, we do not knowingly allow children under 13 to create accounts or view personalized ads. If we learn that we have inadvertently collected personal information from a child under 13, we will take steps to delete it.
+7. Data Retention and Deletion
+Your account data (profile info, play time, progress, preferences) is retained as long as your account is active.
+You may request deletion of your account and associated data at any time by contacting us at the email below. We will delete your data within a reasonable time, except where retention is required for legal, security, or fraud-prevention purposes.
+8. Data Security
+We use industry-standard services (Google Sign-In, Firebase, Google Play Billing) to help protect your information. However, no method of transmission or storage is 100% secure, and we cannot guarantee absolute security.
+9. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Changes will be reflected by updating the "Last Updated" date at the top of this page. We encourage you to review this policy periodically, especially after App updates that add new features.
+10. Contact Us
+If you have any questions or concerns about this Privacy Policy, or wish to request deletion of your data, please contact us at:
+JIMA Group Email: support.jimagroup@gmail.com
+Address: 150, Kutilarigan, Bamunigaan, Daringbadi, Odisha, India, 762021
+
+
+This policy reflects the App's currently known features: Google Sign-In for account backup, storage access for local media playback, ads for free-tier users via a third-party ad network, VIP plan purchases via Google Play Billing, and email-based feedback. If any of these mechanisms change (e.g., a different ad network or backup provider is used), this policy should be updated accordingly.
